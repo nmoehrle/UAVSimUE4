@@ -6,15 +6,15 @@ Current Supporting UE4 Engine: 4.14.3
 
 Authors: Matthias Mueller, Neil Smith and Bernard Ghanem
 
-For Citation: https://ivul.kaust.edu.sa/Pages/pub- benchmark- simulator- uav.aspx
+For Citation: https://ivul.kaust.edu.sa/Pages/pub-benchmark-simulator-uav.aspx
 
 License: See LICENSE file
 
-Contributors: Special thanks to Rama for inspiration from VictoryPlugin. The Car is based off Peter L. Newton's Car AI (https://forums.unrealengine.com/showthread.php?25073- Community- A- I- Project- (Dev- Thread)- Bot- Car- and- soon- Flying- AI). The current level is from the startere content of UE4. The S1000 is adapted for UE4 from Google 3D Warehouse by Torsten L (https://3dwarehouse.sketchup.com/model.html?id=u2dd74708- c644- 4e69- 925d- 9c60d9c51aec)
+Contributors: Special thanks to Rama for inspiration from VictoryPlugin. The Car is based off Peter L. Newton's Car AI (https://forums.unrealengine.com/showthread.php?25073-Community-A-I-Project-(Dev-Thread)-Bot-Car-and-soon-Flying-AI). The current level is from the startere content of UE4. The S1000 is adapted for UE4 from Google 3D Warehouse by Torsten L (https://3dwarehouse.sketchup.com/model.html?id=u2dd74708-c644-4e69-925d-9c60d9c51aec)
 
 ## Introduction
 
-The UE4 flight simulator provides a set of assets, blueprints, and C++ classes for simulating the flight of a Multirotor copter in a photo- realistic environment. Unique to the simulator is the ability to record frames of the rendered environment and groundtruth tracked object by the UAV. Multiple instances of the UAV can be dropped into the environment and the blueprint can be modified to record multiple cameras. In addition, blueprints are provided for simulating trajectories of a physic based vehicle and navmesh controlled human.
+The UE4 flight simulator provides a set of assets, blueprints, and C++ classes for simulating the flight of a Multirotor copter in a photo-realistic environment. Unique to the simulator is the ability to record frames of the rendered environment and groundtruth tracked object by the UAV. Multiple instances of the UAV can be dropped into the environment and the blueprint can be modified to record multiple cameras. In addition, blueprints are provided for simulating trajectories of a physic based vehicle and navmesh controlled human.
 
 This current github version uses the starter level from the UE4 launcher. The content unique to the simulator is contained within game/Simulator and can be migrated into any project.
 
@@ -22,7 +22,7 @@ This current github version uses the starter level from the UE4 launcher. The co
 
 ## Install Instructions
 
-- Current version is compatible for UE4 Release (Please install from Epic Launcher...See top of Readme for Supported Version)
+- Current version is compatible for UE4 Release (Please install from Epic Launcher... See top of Readme for Supported Version)
 
 - Clone project into folder
 
